@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Brick-Breaker-Game</h3>
+<h3 align="center">Tetris Game</h3>
 
   <p align="center">
-    C++ and RayLib based Brick Breaker Game game.
+    C++ and RayLib based Tetris game.
     <br />
     <a href="https://github.com/jsl3/Tetris"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,7 +75,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/jsl3/Tetris)
 
-Using a single ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to hit the ball against the bricks and eliminate them. If the player's paddle misses the ball's rebound, they will lose a turn. The player has three turns to try to clear the screen of bricks.
+In Tetris, players complete lines by moving differently shaped pieces (tetrominoes), which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared lines reach the top of the playing field.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ Using a single ball, the player must knock down as many bricks as possible by us
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Play Brick Breaker Game.
+Play Tetris Game.
 
 Controls described in the game.
 
